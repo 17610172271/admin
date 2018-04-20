@@ -1,0 +1,133 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?ingnkz');
+  src:  url('../fonts/icomoon.eot?ingnkz#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ingnkz') format('truetype'),
+    url('../fonts/icomoon.woff?ingnkz') format('woff'),
+    url('../fonts/icomoon.svg?ingnkz#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="wfc-icon-"], [class*=" wfc-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wfc-icon-arrow-down:before {
+  content: "\e900";
+  color: #fe7c1e;
+}
+.wfc-icon-arrow-left:before {
+  content: "\e901";
+}
+.wfc-icon-arrow-right-thin:before {
+  content: "\e902";
+}
+.wfc-icon-arrow-right:before {
+  content: "\e903";
+}
+.wfc-icon-arrow-up:before {
+  content: "\e904";
+  color: #fe7c1e;
+}
+.wfc-icon-check:before {
+  content: "\e905";
+  color: #8d9db0;
+}
+.wfc-icon-checked .path1:before {
+  content: "\e906";
+  color: none;
+}
+.wfc-icon-checked .path2:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(254, 124, 30);
+}
+.wfc-icon-checked .path3:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.wfc-icon-close:before {
+  content: "\e909";
+}
+.wfc-icon-Invisible:before {
+  content: "\e90a";
+  color: #8d9db0;
+}
+.wfc-icon-minus:before {
+  content: "\e90b";
+  color: #8d9db0;
+}
+.wfc-icon-plus-thin:before {
+  content: "\e90c";
+  color: #c8d1dc;
+}
+.wfc-icon-plus:before {
+  content: "\e90d";
+}
+.wfc-icon-Refresh:before {
+  content: "\e90e";
+  color: #c8d1dc;
+}
+.wfc-icon-search:before {
+  content: "\e90f";
+  color: #8d9db0;
+}
+.wfc-icon-select:before {
+  content: "\e910";
+  color: #8d9db0;
+}
+.wfc-icon-selected .path1:before {
+  content: "\e911";
+  color: rgb(254, 124, 30);
+}
+.wfc-icon-selected .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.wfc-icon-Star:before {
+  content: "\e913";
+}
+.wfc-icon-triangle-down:before {
+  content: "\e914";
+  color: #8d9db0;
+}
+.wfc-icon-triangle-up:before {
+  content: "\e915";
+  color: #8d9db0;
+}
+.wfc-icon-visible:before {
+  content: "\e916";
+  color: #8d9db0;
+}
+.wfc-icon-warning-bg .path1:before {
+  content: "\e917";
+  color: rgb(254, 124, 30);
+}
+.wfc-icon-warning-bg .path2:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.wfc-icon-warning-bg .path3:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.wfc-icon-warning:before {
+  content: "\e91a";
+  color: #f40;
+}

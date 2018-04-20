@@ -1,0 +1,82 @@
+{
+  "yestoday_order": "12",
+  "yestoday_income": "3022.00",
+  "order_unconfirmed": "3",
+  "order_wait4pickup": "5",
+  "order_wait4return": "8",
+  "order_pickup_expired": "1",
+  "order_return_expired": "4",
+  "order_history": {
+    "from": "2017-06-01",
+    "to": "2017-06-07",
+    "new_order": "17",
+    "finished_order": "18",
+    "canceled_order": "9",
+    "lastweek": [
+      {
+        "date": "2017-06-01",
+        "number": "3"
+      },
+      {
+        "date": "2017-06-02",
+        "number": "3"
+      },
+      {
+        "date": "2017-06-03",
+        "number": "3"
+      },
+      {
+        "date": "2017-06-04",
+        "number": "3"
+      },
+      {
+        "date": "2017-06-05",
+        "number": "3"
+      },
+      {
+        "date": "2017-06-06",
+        "number": "3"
+      },
+      {
+        "date": "2017-06-07",
+        "number": "3"
+      }
+    ]
+  },
+  "income_history": {
+    "from": "2017-06-01",
+    "to": "2017-06-07",
+    "income": "48900",
+    "fee": "53270",
+    "lastweek": [
+      {
+        "date": "2017-06-01",
+        "income": "3100"
+      },
+      {
+        "date": "2017-06-02",
+        "income": "5300"
+      },
+      {
+        "date": "2017-06-03",
+        "income": "2300"
+      },
+      {
+        "date": "2017-06-04",
+        "income": "1500"
+      },
+      {
+        "date": "2017-06-05",
+        "income": "500"
+      },
+      {
+        "date": "2017-06-06",
+        "income": "0"
+      },
+      {
+        "date": "2017-06-07",
+        "income": "13000"
+      }
+    ]
+  }
+}
